@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function HeroSection() {
   return (
-    <div className="flex items-center justify-center space-x-4 border-2 h-svh text-wrap">
+    <div className="flex items-center justify-center space-x-4  h-svh text-wrap">
       <div className="">
         <div className="flex items-center justify-center p-4 border-2 text-xl">
           Heyo
